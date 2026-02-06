@@ -101,10 +101,15 @@ print(f"Code Score: {analysis['score']}/100")
 Agent	Purpose	Key Features
 
 🔍 Research Agent :-	Information gathering & analysis	Web search, report generation, source validation
+
 👨‍💻 Code Analyzer :- 	Code review & security audit	Security scanning, performance analysis, style checking
+
 🎨 Data Visualizer :- 	Data visualization & charts	Interactive plots, multiple chart types, export options
+
 💰 Financial Agent :- 	Market analysis & portfolio tracking	Stock data, technical indicators, portfolio visualization
+
 🎵 Audio Agent :- 	Audio analysis & visualization	Waveform display, spectrograms, feature extraction
+
 ✍️ Content Writer :- 	Content generation & summarization	Article writing, text summarization, style adaptation
 
 # Multi-Agent Workflow
@@ -139,10 +144,15 @@ python -m pytest tests/ -v
 Agent	Average Response Time	Accuracy	Features
 
 Research :-	 2.3s	92%	Web search, analysis, reporting
+
 Code Analyzer :-	0.8s	96%	Security, performance, style
+
 Data Visualizer :-	1.5s	98%	10+ chart types, interactive
+
 Financial Agent :-	3.1s	89%	Real-time data, indicators
+
 Audio Agent :-	2.7s	91%	Waveform, spectrogram, features
+
 Content Writer :- 	4.2s	88%	Articles, summaries, translations
 
 
@@ -187,3 +197,17 @@ Multi-Agent Coordination: Learn about agent communication patterns
 Visualization Techniques: Study data representation methods
 
 Real-world Applications: See practical use cases
+
+# 🤝 Contributing
+
+We welcome contributions! Please see our Contributing Guidelines.
+
+Fork the repository
+
+Create a feature branch (git checkout -b feature/amazing-feature)
+
+Commit changes (git commit -m 'Add amazing feature')
+
+Push to branch (git push origin feature/amazing-feature)
+
+Open a Pull Request
