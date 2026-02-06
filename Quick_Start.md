@@ -10,7 +10,7 @@ Get started with Claude AI Agents in 5 minutes!
 
 ## ⚡ Installation
 
-### Option 1: Clone Repository (Recommended)
+# Clone Repository (Recommended)
 ```bash
 # Clone the repository
 git clone https://github.com/NishantDas0079/Claude-AI-Agents-Professional.git
